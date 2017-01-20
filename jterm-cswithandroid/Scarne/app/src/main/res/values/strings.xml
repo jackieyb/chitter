@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scarne</string>
+    <string name="title_activity_welcome_text">welcomeText</string>
+</resources>
